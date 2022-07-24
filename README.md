@@ -4,7 +4,9 @@ Exploratory data analysis is an important step in any research analysis used to 
 
 
 # End to End EDA:
-# MISSING VALUES: 
+# Univariate analysis
+# Bivariate analyis.
+# MISSING VALUES. 
 # Outlier analysis and Removal: boxplot & normal distribution(statistical methods)
 # ** Features Engineering ** (to extract the new feature from the existing one )
 # **Statistical Analaysis to verify the relation between Predictor and TGT *** 
