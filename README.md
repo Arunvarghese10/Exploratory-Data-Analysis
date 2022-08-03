@@ -12,3 +12,4 @@ Exploratory data analysis is an important step in any research analysis used to 
 # Statistical Analaysis: (to verify the relation between Predictor and TGT). 
 # Data Transformation and Scaling & Encoding : Also known as data preprocesing stage
 # Model Building.
+# We can apply multiple model methods w.r.t the data and approach the problem
